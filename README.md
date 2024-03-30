@@ -1,2 +1,6 @@
 # fonts
-fonts useful
+fonts for personal linux use
+
+[nerd](https://www.nerdfonts.com/) 
+
+
